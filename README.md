@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gift Egwuenu</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm xm</h3>
 
 <!-- Profile Views -->
 
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
+  <a>Website</a> •
+  <a>Twitter</a>
 </p>
 
  <!-- About section -->
@@ -16,11 +16,11 @@
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- 😄 My Pronouns: Her   
+- 😄 My Pronouns: His
 
 - 💬 Ask me about: python，go，Vue, racet.
 
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
+- 📫 How to reach me: 
 
 <!-- About section: END -->
 
@@ -29,10 +29,9 @@
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/egwuenugift"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/@lauragift_
-/"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-<a href="https://www.youtube.com/c/EgwuenuGift"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
+        <a><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
+       <a><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
+<a><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
    </p>
 
  <!-- Conecct section: END -->
@@ -50,10 +49,4 @@
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lauragift21&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 </details>
