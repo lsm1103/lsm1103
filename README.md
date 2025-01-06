@@ -3,8 +3,8 @@
 
 <!-- Profile Views -->
 
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
 - 😄 My Pronouns: His
 
